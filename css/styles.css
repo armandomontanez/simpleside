@@ -160,6 +160,7 @@ h6 {
 h6 a:link {
 	color: #EF2828;
     text-decoration: none;
+	font-weight: bold;
 }
 #homeButton {
 	display: table-cell;
